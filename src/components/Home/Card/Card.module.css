@@ -1,0 +1,32 @@
+.card {
+    width: 270px;
+    height: 300px;
+    padding: 5px 5px 0px 5px;
+    background-color: white;
+    color: black;
+    border-radius: 7px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
+
+.skills {
+    font-size: 16px;
+    margin-left: 10px;
+
+}
+
+.img {
+    width: 250px;
+    height: 200px;
+}
+
+.card img {
+    margin: 0 auto 20px;
+    border-radius: 5px;
+}

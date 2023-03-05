@@ -1,0 +1,25 @@
+section {
+    background-color: #232323;
+    padding-top: 76px;
+    height: 100vh;
+}
+
+.projects {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #6366D2;
+    font-size: 32px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-left: 10px;
+    padding-right: 10px;
+    /**/
+    max-width: 1200px;
+    margin: 0 auto;
+    color: white;
+}

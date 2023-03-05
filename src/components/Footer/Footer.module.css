@@ -1,0 +1,29 @@
+footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    background-color: #181818;
+    border-top: 1px solid #3d3d3d;
+}
+
+li {
+    list-style-type: none;
+    margin-right: 25px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 0px 10px 0px;
+
+
+}
+.container li a svg {
+    color: white;
+    width: 20px;
+    height: 20px;
+}

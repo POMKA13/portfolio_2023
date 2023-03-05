@@ -1,0 +1,23 @@
+.hello {
+    padding-top: 256px;
+    background-color: #232323;
+    font-size: 26px;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-weight: 500;
+}
+
+.title {
+    color: #6366D2;
+}
+
+.title2 {
+    font-size: 26px;
+    font-weight: 400;
+}
+
+.content {
+    padding-bottom: 296px;
+}
